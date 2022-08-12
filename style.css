@@ -1,0 +1,13 @@
+h1 ,h2 , .game-canvas{
+    text-align: center;
+}
+#score , #game-status{
+color: red;
+}
+body{
+    background-color: aquamarine;
+}
+h4{
+    text-align: center;
+    font-style: italic;
+}
